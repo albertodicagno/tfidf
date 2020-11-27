@@ -1,0 +1,15 @@
+dist
+
+# vscode
+.vscode
+
+# vim
+*.swp
+*.rdb
+
+# mac
+.DS_Store
+
+# data
+*.dat
+*.csv
